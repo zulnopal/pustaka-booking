@@ -38,7 +38,7 @@
  </tr>
  <tr>
  <td colspan="3" align="center">
- <a href="<?= base_url('Matakuliah'); 
+ <a href="<?= base_url('matakuliah'); 
 ?>">Kembali</a>
  </td>
 
