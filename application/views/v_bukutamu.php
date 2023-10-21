@@ -14,7 +14,7 @@
     </td>
 </tr>
 <tr>
-    <th>Nama lengkap</th>
+    <th>Nama lengkap Anda</th>
     <th>:</th>
     <td>
         <input type="text" name="nama" id="nama">
