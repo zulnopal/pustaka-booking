@@ -18,9 +18,9 @@
  <tr>
  <th>Kode MTK</th>
  <th>:</th>
- <td>
+ <th>
  <?= $kode; ?>
- </td>
+ </th>
  </tr>
  <tr>
  <td>Nama MTK</td>

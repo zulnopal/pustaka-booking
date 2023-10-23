@@ -9,14 +9,14 @@
         <table>
             <tr>
                 <th colspan="3">
- Form Input Data Mata Kuliah
- </th>
- </tr>
- <tr>
- <td colspan="3">
- <hr>
- </td>
- </tr>
+                    Form Input Data Mata Kuliah
+                </th>
+             </tr>
+              <tr>
+                <td colspan="3">
+                    <hr>
+                 </td>
+                 </tr>
  <tr>
  <th>Kode MTK</th>
  <th>:</th>
